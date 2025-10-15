@@ -1,6 +1,8 @@
-# EduComplain – A Cloud-Based Student Complaint Management System
+# RoomMate – A Cloud-Based Roommate Discovery and Matching Platform
 
-**EduComplain** is a distributed, cloud-based platform designed to provide students and educational institutions across Africa with a **resilient, scalable, and collaborative system** for submitting, tracking, and resolving complaints.
+**RoomMate** is a comprehensive, cloud-based web platform designed to help individuals across communities find compatible roommates easily and securely. The platform leverages modern web technologies to provide a **scalable, fault-tolerant, and collaborative environment** for people seeking shared accommodation based on location, budget, lifestyle preferences, and personal interests.
+
+---
 
 ---
 
