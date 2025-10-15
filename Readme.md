@@ -12,32 +12,43 @@
 
 ## Core Features
 
-### Complaint Submission Form
-Students can submit complaints with:
+### 🏠 Roommate Discovery
+- Search for roommates based on:
+  - **Location**
+  - **Budget range**
+  - **Lifestyle preferences** (smoking, pets, sleep habits, etc.)
+  - **Personal interests** (study habits, hobbies, cleanliness, etc.)
 
-- Complaint category (academic, administrative, facilities, etc.)
-- Description of the issue
-- Optional file attachment (photo, document)
-- Student ID / contact (optional for anonymous submissions)
+### 👤 Profile Management
+- Users can create detailed profiles with:
+  - Photos, biography, interests, and preferred roommate characteristics
+  - Verified contact and social identity for trust and safety
+  - Option to specify "room available" or "looking for room"
 
-### Dashboard for Officials
-Administrators can:
+### 💬 Secure Messaging
+- Built-in chat system for communication between matched users
+- Optional voice or video call integration for direct discussion before meeting
+- Message moderation to ensure safe and respectful interactions
 
-- View all complaints with status filters (pending, in-progress, resolved)
-- Assign complaints to specific staff or departments
-- Add comments, notes, and mark complaints as resolved
-- Track response times and complaint history
+### 📍 Map Integration
+- Integration with cloud-based map APIs (Google Maps / OpenStreetMap)
+- Users can explore available rooms or roommates visually
+- Filters for location radius, proximity to schools or workplaces
 
-### Notifications (Optional)
+### 📅 Booking & Scheduling
+- Calendar view for scheduling visits or interviews
+- Room availability updates in real time
+- Notifications and reminders for meetings
 
-- Email or SMS notifications to students when complaints are updated or resolved
-- Alerts to staff for newly submitted or high-priority complaints
+### 🛡️ Verification & Safety
+- ID verification for added trust between users
+- Report and review system for community safety
+- Data encryption for sensitive information
 
-### User Roles
-
-- **Student / Reporter:** submit complaints, view personal complaint status
-- **Staff / Technician / Reviewer:** handle assigned complaints, update status
-- **Admin:** full control, assign complaints, manage users, and generate reports
+### 👥 Collaboration & Community
+- Discussion boards for tenants and landlords
+- Co-living tips, budgeting tools, and shared expense management
+- Group chats for users sharing a flat or looking to form one
 
 ---
 
